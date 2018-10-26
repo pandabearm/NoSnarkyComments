@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+	background-color:powderblue;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+}
